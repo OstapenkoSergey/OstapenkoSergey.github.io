@@ -1,0 +1,8 @@
+git clone https://github.com/OstapenkoSergey/V-Pervyj-Raz.git
+Еor create a new repository on the command line
+echo "# V-Pervyj-Raz" >> README.md
+git init
+git add .
+git commit -m "что € изменил"
+git remote add origin https://github.com/OstapenkoSergey/V-Pervyj-Raz.git
+git push -u origin master

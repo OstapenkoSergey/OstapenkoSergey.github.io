@@ -1,0 +1,18 @@
+<! DOCTYPE html>
+<html>
+	<head>
+	<title>Почем фунт дичи, Ричи?</title>
+	<meta charset="utf-8">
+	<link rel="shortcut icon" href="icon2.jpeg"/>
+	</head>
+	<body>
+	<h3>Самый большой куш</h3>
+	<img src="snatch.jpg"/>
+	<ol>Этот фильм лучший, потому что:
+		<li>"Цыгане?Ненавижу,блять, цыган!"</li>
+		<li>"Две минуты, турецкий!"</li>
+		<li>"Все ставки сделаны"</li>
+		<li>"Да там боинг можно посадить!"</li>
+	</ol>
+	</body>
+</html>

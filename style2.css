@@ -1,0 +1,95 @@
+body{
+    background: url(fon_rorshah.jpg);	
+	background-size: 100%;
+   }
+
+.rainbow {
+	color:#CBC36B;
+	background: #705E6C;
+	display:inline;
+	text-align: center;
+	font-size: 40px;
+	line-height: 40px;	
+	margin-top: 50px;
+	margin-left: 350px;
+	padding: 10px;
+	border: 2px solid #4242E1;
+	border-radius: 12px;
+}
+
+	
+#sam {
+	margin-top:0px;
+	float: right;
+	width: 400px;
+	padding: 20px;
+	text-align: justify;
+	text-indent: 15px;
+	border: 2px solid #4242E1;
+	border-radius: 7px;	
+	color:#ABA250;
+	background: #1A1C2B;	
+}
+
+#sam1 {
+
+	width: 400px;
+	padding: 20px;
+	text-align: justify;
+	text-indent: 15px;
+	border: 2px solid #4242E1;
+	border-radius: 7px;	
+	color:#ABA250;
+	background: #1A1C2B;	
+}
+
+
+#ssss {
+	margin-right: 500px;
+	float: right;
+	width:600px; 
+	border: 2px solid #4242E1;
+	border-radius: 5px;
+	
+}
+
+#sam2 {
+	text-align: center;
+	color:#ABA250;
+	width: 500px;
+	margin-top: 100px;
+	padding: 10px;
+	float: left;	
+	border: 2px solid #4242E1;
+	border-radius: 7px;
+	background-color: rgba(26,28,43,0.8);
+	margin-left:500px;
+}
+
+#zoom:hover {
+	transform: scale(2.3);
+	transition:2s all;
+	
+}
+
+a {
+color: #4C5FCB;
+font-size: 20px;
+	
+}
+
+
+table {
+	text-align: center; 
+	margin-top:30px;
+	margin-left:150px;
+	font-size:20px;
+}
+
+#k { color:#eb3434;}
+#o { color:#eb7a34}
+#j { color:#ebe534;}
+#z { color:#93eb34}
+#g { color:#34e2eb}
+#s { color:#346eeb}
+#f { color:#eb34df}
